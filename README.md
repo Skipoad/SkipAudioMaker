@@ -25,7 +25,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/<your-username>/SkipAudioMaker.git
+git clone https://github.com/Skipoad/SkipAudioMaker.git
 
 # 安装依赖
 pip install -r requirements.txt
