@@ -14,7 +14,7 @@
 
 ## 下载安装
 
-前往 [Releases 页面](https://github.com/<your-username>/SkipAudioMaker/releases) 下载最新版本。
+前往 [Releases 页面](https://github.com/Skipoad/SkipAudioMaker/releases) 下载最新版本。
 
 ### 系统要求
 - **操作系统**: Windows 10+, macOS 10.15+, Linux (Ubuntu 20.04+)
