@@ -1,0 +1,86 @@
+/* 全局样式 */
+QWidget {
+    background-color: #2C3E50;
+    color: #ECF0F1;
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+}
+
+/* 主窗口 */
+QMainWindow {
+    background-color: #2C3E50;
+}
+
+/* 工具栏 */
+QToolBar {
+    background-color: #34495E;
+    border-bottom: 1px solid #2980B9;
+    padding: 5px;
+    spacing: 5px;
+}
+
+QToolButton {
+    background-color: #3498DB;
+    color: white;
+    border-radius: 4px;
+    padding: 5px;
+    min-width: 32px;
+    min-height: 32px;
+}
+
+QToolButton:hover {
+    background-color: #2980B9;
+}
+
+/* 按钮 */
+QPushButton {
+    background-color: #3498DB;
+    color: white;
+    border-radius: 4px;
+    padding: 5px 10px;
+    border: none;
+}
+
+QPushButton:hover {
+    background-color: #2980B9;
+}
+
+QPushButton:pressed {
+    background-color: #1F618D;
+}
+
+/* 标签 */
+QLabel {
+    color: #ECF0F1;
+}
+
+/* 列表视图 */
+QListWidget {
+    background-color: #34495E;
+    border: 1px solid #2980B9;
+    border-radius: 4px;
+    color: #ECF0F1;
+}
+
+/* 输入框 */
+QLineEdit, QComboBox, QSpinBox, QDoubleSpinBox {
+    background-color: #34495E;
+    color: #ECF0F1;
+    border: 1px solid #2980B9;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+/* 停靠窗口 */
+QDockWidget {
+    background-color: #2C3E50;
+    border: 1px solid #2980B9;
+    border-radius: 4px;
+}
+
+QDockWidget::title {
+    background-color: #2980B9;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}

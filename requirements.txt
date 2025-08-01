@@ -1,0 +1,9 @@
+PyQt5==5.15.7
+numpy==1.23.5
+librosa==0.10.0
+pydub==0.25.1
+mido==1.2.10
+python-rtmidi==1.5.1
+matplotlib==3.7.1
+PyInstaller==5.13.0
+soundfile==0.12.1
